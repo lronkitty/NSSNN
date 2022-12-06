@@ -19,6 +19,8 @@ The implementation of TGRS 2022 paper ["Nonlocal Spatial-Spectral Neural Network
 
 *Note matlab is required to execute the following instructions.*
 
+* You can use the testing set we prepared for you in ```datasets/test/```
+
 * Read the matlab code of ```matlab/generate_dataset*``` to understand how we generate noisy HSIs.
 
 * Read and modify the matlab code of ```matlab/HSIData.m``` to generate your own testing dataset
