@@ -9,7 +9,7 @@ The implementation of TGRS 2022 paper ["Nonlocal Spatial-Spectral Neural Network
 
 ### 1. Preparing your training/testing datasets
 
-* Download HSIs from [here](https://njusteducn-my.sharepoint.com/:f:/g/personal/119106032867_njust_edu_cn/EhlvptVmZohEpjkNnu9P_xQBCJfpcSzXTg_omD2YCvXuIA?e=Xzy29C).(uploading)
+* Download HSIs from [here](https://njusteducn-my.sharepoint.com/:f:/g/personal/119106032867_njust_edu_cn/EhlvptVmZohEpjkNnu9P_xQBCJfpcSzXTg_omD2YCvXuIA?e=Xzy29C).
 
 #### Training dataset
 
